@@ -62,7 +62,7 @@ This project focuses on performing in-depth analysis of Netflix's content data t
 
 ## 📁 Folder Structure
 business_problems.txt [list of 15 problems]
-netflix1.sql [mysql file]
+Netflix_Data_Analysis.sql [mysql file]
 netflix_titles.csv [ dataset]
 table_structure.txt [structure of table].
 
