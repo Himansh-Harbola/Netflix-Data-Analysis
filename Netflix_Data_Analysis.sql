@@ -15,7 +15,7 @@ CREATE TABLE Movie_Data (
     Description_ VARCHAR(1500)
 );
 
--- Load data (Ensure secure_file_priv is configured correctly)
+-- Load data 
 -- SHOW VARIABLES LIKE 'secure_file_priv';
 
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 9.3/Uploads/netflix_titles.csv'
